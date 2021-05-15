@@ -1,2 +1,2 @@
 # LabPrincom
-Arquivos da disciplina de Princípios de Comunicação 
+Arquivos da disciplina de Laboratório de Princípios de Comunicação 
